@@ -39,7 +39,7 @@
 | 33    | Controller           | RaspberryPi（Optional）                                      | 1 PC   |                                                              |
 | 34    | Controller           | sdcard 16GB                                                  | 1 PC   |                                                              |
 | 35    | Controller           | USB C cable                                                  | 1 PC   |                                                              |
-| 36    | Controller           | Spider Board                                                 | 1 PC   |                                                              |
+| 36    | Controller           | SPIDER_H7_V30 Board                                                 | 1 PC   |                                                              |
 | 37    | Controller           | TMC2209 Stepper Motor Driver                                 | 6 PCS  |                                                              |
 | 38    | Controller           | HDMI5 Display                                                | 1 PC   | upgrade                                                      |
 | 39    | Frame                | Light weight Gantry                                          | 1 SET  | upgrade                                                      |

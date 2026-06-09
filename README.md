@@ -13,3 +13,6 @@ In folder `Voron-2-Voron2.4` beside this README file, we make some small changes
 
 ## 2. Fysetc Spider 3.0 H7 Spider
 The latest revision of the R2 Pro kit may contain the H7 Spider board, more information on flashing this board can be found on it's official github repository here: https://github.com/FYSETC/FYSETC-SPIDER-H7 and Wiki article here: https://wiki.fysetc.com/docs/SPIDERV3H7
+
+## 3. Fysetc SB Combo V2
+The latest revision of the R2 Pro kit may contain the SB Combo V2 Toolhead board, more information on flashing this board can be found on it's official github repository here: https://github.com/FYSETC/SB_Combo_V2/tree/main and Wiki article here: https://wiki.fysetc.com/docs/SBComboV2
